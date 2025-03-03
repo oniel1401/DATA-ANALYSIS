@@ -1,0 +1,946 @@
+type_transaction,prix_vente,description,localisation,commune,ville,marque,modele,annee
+Vente,6300000,kia sportage lx phase 2 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage lx phase 2,2010
+Vente,2500000,ford focus 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Focus,2005
+Vente,16800000,toyota rav4 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2019
+Vente,10900000,mercedes-benz c 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,10800000,mercedes-benz c300   2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,4500000,mercedes-benz ml 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2005
+Vente,45000000,toyota land cruiser 2019,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Toyota,Land cruiser,2019
+Vente,5500000,nissan juke 2011,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Juke,2011
+Vente,6500000,bmw x6 2008,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Bmw,X6,2008
+Vente,11500000,mercedes-benz gla 250 4matic 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,12900000,audi q5  concessionnaire 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Audi,Q5  concessionnaire,2016
+Vente,7500000,nissan rogue 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Nissan,Rogue,2018
+Vente,6000000,renault kangoo 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Kangoo,2014
+Vente,45000000,mercedes-benz g 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,9850000,hyundai santa fe 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2018
+Vente,2350000,volkswagen golf 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Golf,2005
+Vente,9000000,kia optima hybrid 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima hybrid,2017
+Vente,6700000,kia morning  2016,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Morning,2016
+Vente,2900000,renault kwid 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Kwid,2017
+Vente,1490000,peugeot 308 2009 ,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Peugeot,308,2009
+Vente,9500000,mazda 3 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2016
+Vente,4700000,peugeot 2008 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,2008,2015
+Vente,12500000,kia sportage 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Kia,Sportage,2018
+Vente,7000000,bmw 3 series 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Bmw,3 series,2017
+Vente,1490000,peugeot 308,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Peugeot,Peugeot,inco
+Vente,9000000,mazda cx-5 2015,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mazda,Mazda,2015
+Vente,6500000,toyota rav4 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2007
+Vente,12000000,land rover range rover 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover,2017
+Vente,4300000,toyota corolla 2003,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Toyota,Corolla,2003
+Vente,6000000,dacia dokker 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Dacia,Dokker,2018
+Vente,38000000,toyota land cruiser 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2017
+Vente,16000000,honda cr-v2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Honda,Cr-v,2019
+Vente,6850000,mazda 3 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2018
+Vente,9000000,nissan patrol 2011,"Abidjan, Côte d'Ivoire",,Abidjan,Nissan,Patrol,2011
+Vente,4900000,bmw x3 2010 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X3,2010
+Vente,8800000,peugeot 208 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,208,2019
+Vente,13700000,honda cr-v 5 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v 5,2018
+Vente,7800000,toyota venza 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Venza,2010
+Vente,6300000,opel vivaro 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Opel,Vivaro,2014
+Vente,11950000,toyota rav4 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Rav4,2018
+Vente,4300000,toyota avensis 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Avensis,2006
+Vente,2900000,toyota yaris 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Yaris,2006
+Vente,2800000,peugeot 405 2004,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Peugeot,405,2004
+Vente,7700000,hyundai elantra 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2018
+Vente,3750000,peugeot 308 année 2014 full options ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot,2014
+Vente,5950000,volkswagen touareg  2006 phase 2,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,11500000,kia sorento 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2019
+Vente,14000000,mercedes-benz c400 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,10900000,peugeot 3008 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,3008,2018
+Vente,13500000,mitsubishi eclipse cross  2019,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,Eclipse cross,2019
+Vente,4350000,kia rio berline 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Rio berline,2015
+Vente,3400000,toyota verossa 2002,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Toyota,Verossa,2002
+Vente,5950000,volkswagen touareg  2006 phase 2,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,5950000,volkswagen touareg  2006 phase 2,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,5950000,volkswagen touareg  2006 phase 2,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,25000000,toyota land cruiser 2015 ,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Land cruiser,2015
+Vente,9500000,mazda cx-5 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2016
+Vente,12800000,honda cr-v 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Honda,Cr-v,2018
+Vente,15500000,toyota hi-ace 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Hi-ace,2019
+Vente,11500000,mercedes-benz c30 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,2600000,honda accord 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Accord,2006
+Vente,6500000,toyota prado  2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Prado,2003
+Vente,3500000,toyota obama  1995,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Toyota,Obama,1995
+Vente,9900000,mercedes-benz c-class 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,8500000,hyundai sonata 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Sonata,2017
+Vente,5500000,mitsubishi  did,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mitsubishi,Mitsubishi,inco
+Vente,10800000,kia sportage 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2017
+Vente,13900000,mitsubishi eclipse 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Eclipse,2019
+Vente,9800000,toyota hilux 2016,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Hilux,2016
+Vente,5800000,ford escape 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2016
+Vente,5800000,ford escape 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2016
+Vente,7900000,mitsubishi  l200 2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mitsubishi,L200,2017
+Vente,10800000,dodge charger 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Dodge,Charger,2019
+Vente,9500000,rover range rover 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Range rover,Range rover,2018
+Vente,7600000,toyota hilux 2011,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Hilux,2011
+Vente,7900000,mitsubishi outlander 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2015
+Vente,4600000,mercedes-benz c200 2003,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2003
+Vente,2800000,bmw e46 2010,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Bmw,Bmw e46,2010
+Vente,20000000,jeep wrangler sahara 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Jeep,Wrangler sahara,2018
+Vente,4500000,toyota obama phase 2  2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,2006
+Vente,28000000,mercedes-benz glc  43 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,12500000,mercedes-benz gla-class 2016,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2016
+Vente,8500000,hyundai ix35 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Ix35,2013
+Vente,5000000,renault duster 2017 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Duster,2017
+Vente,9500000,volkswagen tiguan 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Tiguan,2018
+Vente,14700000,toyota land cruiser 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,3800000,opel zafira 1999,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Opel,Zafira,1999
+Vente,5800000,toyota land cruiser 2005,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Land cruiser,2005
+Vente,16500000,hyundai santa fe 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Santa fe,2019
+Vente,4300000,nissan qashqai 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Qashqai,2008
+Vente,8500000,hyundai tucson 2012,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Tucson,2012
+Vente,4300000,nissan rogue 2008,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Nissan,Rogue,2008
+Vente,8500000,kia sportage 2013 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2013
+Vente,11500000,bmw x2 sdrive 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Bmw,X2 sdrive,2019
+Vente,7000000,kia optima 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2016
+Vente,18800000,mitsubishi montero 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Montero,2018
+Vente,11800000,kia sportage 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2018
+Vente,7400000,audi 11cv  2012,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Audi,11cv,2012
+Vente,7200000,ford escape 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2018
+Vente,8500000,hyundai tucson 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2016
+Vente,5500000,toyota land cruiser prado 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2003
+Vente,9500000,hyundai elantra 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2019
+Vente,6800000,toyota corolla 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Corolla,2018
+Vente,4500000,toyota camry 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Camry,2018
+Vente,5850000,hyundai elantra 2012 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2012
+Vente,7300000,mini cooper countryman 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mini,Cooper countryman,2016
+Vente,2800000,hyundai getz 2007,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Getz,2007
+Vente,7000000,kia  sorento 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2014
+Vente,4850000,honda cr-v 2  2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v 2,2003
+Vente,4850000,honda cr-v2 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v2,2003
+Vente,4800000,toyota corolla 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2004
+Vente,5850000,volkswagen touareg 2006 boite auto,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,3000000,ford focus 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Focus,2005
+Vente,5850000,volkswagen touareg 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,8700000,hyundai santa fe 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2015
+Vente,3000000,hyundai elantra 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2008
+Vente,8300000,mazda 6 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2017
+Vente,18500000,toyota 4 runner 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,4 runner,2017
+Vente,1900000,mitsubishi colt 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Colt,2001
+Vente,9950000,mercedes-benz c300 2014,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2014
+Vente,3800000,mazda bt 50 double cabine 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2015
+Vente,4800000,kia rio 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Rio,2012
+Vente,8900000,ford escape 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2019
+Vente,3650000,peugeot 308 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308,2014
+Vente,25000000,toyota land cruiser azawad double cabine pick up  2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2014
+Vente,5800000,ford ecosport 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Ecosport,2015
+Vente,13500000,hyundai santa fe 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2018
+Vente,3650000,peugeot 308 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308,2014
+Vente,7500000,hyundai elantra 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2016
+Vente,39000000,mercedes-benz gle 43 amg 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,6900000,hyundai accent 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Accent,2017
+Vente,15000000,mercedes-benz gle 350 d  2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,17000000,honda crv5 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Crv5,2019
+Vente,2950000,toyota yaris 2011,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Yaris,2011
+Vente,7800000,peugeot 508 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Peugeot,508,2017
+Vente,12800000,kia sportage 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2019
+Vente,9000000,ford explorer 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Explorer,2016
+Vente,14500000,bmw x3 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X3,2017
+Vente,7800000,peugeot 208 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,208,2019
+Vente,4300000,mitsubishi pajero 2001,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,Pajero,2001
+Vente,7800000,kia optima 2016,"Abidjan, Côte d'Ivoire",,Abidjan,Kia,Optima,2016
+Vente,6900000,mazda 3 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2017
+Vente,7950000,renault duster 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2019
+Vente,9500000,bmw serie 3 328i xdrive gt 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Serie 3 328i xdrive gt,2017
+Vente,15500000,land rover range rover sport 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover sport,2018
+Vente,11800000,kia soul 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Soul,2019
+Vente,13500000,mitsubishi montero 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Montero,2019
+Vente,7500000,toyota corolla 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2017
+Vente,11900000,hyundai santa fe 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2018
+Vente,39000000,mercedes-benz gle 43 2018,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2018
+Vente,2950000,hyundai i10  2014 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,I10,2014
+Vente,3850000,mitsubishi outlander 2004 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2004
+Vente,17800000,bmw x3 xdrive  2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X3 xdrive,2018
+Vente,5900000,mercedes-benz c 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2012
+Vente,11500000,mercedes-benz gl-class 2016,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2016
+Vente,6000000,audi a6 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Audi,A6,2012
+Vente,8000000,kia sportage 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2015
+Vente,13800000,mitsubishi montero sport 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Montero sport,2017
+Vente,17000000,mercedes-benz c-class 2019,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2019
+Vente,4500000,mercedes-benz ml350 4matic  2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2005
+Vente,7300000,chevrolet cruze 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Chevrolet,Cruze,2019
+Vente,2850000,toyota corolla 2011 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2011
+Vente,14900000,mazda cx-9 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2019
+Vente,17000000,kia  sorento 2019,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Kia,Sorento,2019
+Vente,15500000,land rover range rover sport 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover sport,2018
+Vente,11500000,hyundai tucson 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2017
+Vente,5850000,superbe mazda tribute 2010 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2010
+Vente,15800000,hyundai santa fe 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Santa fe,2019
+Vente,13000000,honda cr-v 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2018
+Vente,6800000,toyota highlander 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Highlander,2008
+Vente,8500000,toyota rav4 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2014
+Vente,8500000,kia k2700 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,K,2018
+Vente,2900000,citroën c4 2006,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Citroën,Citroën,2006
+Vente,12800000,peugeot 3008 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,3008,2019
+Vente,17500000,jaguar xs  2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jaguar,Xs,2017
+Vente,2850000,toyota corolla 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2008
+Vente,12500000,kia sportage 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2019
+Vente,6900000,hyundai accent 2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Accent,2017
+Vente,8750000,kia sportage 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2017
+Vente,3900000,honda crv 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Crv,2003
+Vente,4350000,kia rio berline 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Rio berline,2015
+Vente,4800000,toyota corolla 2006,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Corolla,2006
+Vente,9550000,hyundai tucson 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Tucson,2018
+Vente,9850000,hyundai santafé présidentielle 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Hyundai,2018
+Vente,9850000,hyundai santafé présidentielle 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Hyundai,2018
+Vente,9850000,hyundai santafé  2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Hyundai,2018
+Vente,6800000,honda ridgeline 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Ridgeline,2008
+Vente,6800000,honda ridgeline 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Ridgeline,2008
+Vente,11800000,toyota prado 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Prado,2015
+Vente,4850000,volkswagen passat 2011 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Passat,2011
+Vente,8500000,mercedes-benz cla250 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2015
+Vente,5850000,mazda tribute 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2010
+Vente,5700000,renault duster 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2017
+Vente,8900000,toyota corolla 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2019
+Vente,7800000,hyundai elantra 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2017
+Vente,15800000,kia sorento 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2019
+Vente,3850000,mercedes c280- 4 matic boite auto 2009,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,C280- 4 matic boite auto,2009
+Vente,4250000,bmw e-46  2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,E-46,2002
+Vente,2500000,honda civic 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Civic,2002
+Vente,5500000,toyota yaris 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Yaris,2017
+Vente,8900000,hyundai tucson ix35  2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson ix35,2015
+Vente,7500000,toyota avanza 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Avanza,2016
+Vente,9900000,mitsubishi l200 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,L200,2018
+Vente,8500000,bmw 328 2016,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Bmw,328,2016
+Vente,13500000,bmw x4 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X4,2018
+Vente,8500000,ford everest 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Everest,2017
+Vente,6800000,hyundai sonata 2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Sonata,2017
+Vente,23500000,land rover range rover velar  018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Range rover,inco
+Vente,13500000,mitsubishi eclipse 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Eclipse,2019
+Vente,5800000,mitsubishi outlander 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2013
+Vente,10900000,peugeot 3008  2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,3008,2018
+Vente,6800000,renault koleos 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Koleos,2014
+Vente,9500000,toyota c-hr hybrid 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,C-hr hybrid,2017
+Vente,14500000,toyota land cruiser prado 7 places boite auto 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,2300000,peugeot 406 phase 2 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Peugeot,Peugeot 406,inco
+Vente,10000000,hyundai santa fe 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2017
+Vente,14900000,mazda cx-9 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2019
+Vente,4950000,hyundai tucson 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2007
+Vente,7500000,toyota highlander 2010,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Highlander,2010
+Vente,14500000,toyota land cruiser prado 7 places boite auto 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,3850000,mercedes c280- 4 matic 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,C280- 4 matic,2008
+Vente,8500000,mercedes benz c300 2014,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2014
+Vente,8800000,kia sportage 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2017
+Vente,5950000,bmw x6 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X6,2005
+Vente,8950000,chevrolet equinox 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Chevrolet,Equinox,2019
+Vente,10500000,kia sportage  2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2019
+Vente,8950000,chevrolet equinox 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Chevrolet,Equinox,2019
+Vente,3600000,volkswagen golf polo 2004 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Volkswagen,Golf polo,2004
+Vente,12900000,audi q5 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Audi,Q5,2016
+Vente,7900000,kia forte 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Forte,2018
+Vente,14000000,mitsubishi eclipse 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Eclipse,2019
+Vente,15500000,land rover discovery 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Land,Rover discovery,2019
+Vente,6800000,mazda 3 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2018
+Vente,38000000,land rover velar 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Land,Rover velar,2019
+Vente,3300000, citroën  2006 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Citroën,Citroën,2006
+Vente,10800000,honda cr-v 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2016
+Vente,18500000,acura rdx 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Acura,Rdx,2019
+Vente,16500000,toyota land cruiser 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,33000000,mercedes-benz gl 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,12500000,hyundai sonata sport full option  2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Sonata sport full option,2019
+Vente,12900000,audi q5 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Audi,Q5,2016
+Vente,9800000,suzuki vitara 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2018
+Vente,6700000,hyundai accent 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Accent,2017
+Vente,8500000,hyundai elantra gt 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Elantra gt,2017
+Vente,14500000,mazda cx5 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2018
+Vente,7800000,hyundai elantra 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2019
+Vente,8900000,hyundai elantra 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2018
+Vente,3900000,toyota corolla 2000,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2000
+Vente,13000000,mazda cx-5 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2018
+Vente,18800000,toyota land cruiser 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2015
+Vente,2900000,peugeot 206 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,206,2012
+Vente,8900000,kia sportage 2012 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2012
+Vente,10800000,honda cr-v 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2015
+Vente,4800000,mercedes benz c230 2000,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2000
+Vente,12500000,hyundai santa fe limited 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe limited,2018
+Vente,6900000,mercedes-benz c300 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2008
+Vente,7200000,nissan qashqai 2007 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Qashqai,2007
+Vente,5900000,renault symbol 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Symbol,2012
+Vente,8900000,suzuki grand vitara 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2019
+Vente,6800000,nissan navara 2015,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Nissan,Navara,2015
+Vente,17500000,kia sorento 2019,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Kia,Sorento,2019
+Vente,9900000,hyundai santa fe limited  2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe limited,2019
+Vente,9700000,hyundai elantra 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2019
+Vente,8300000,kia sorento 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2014
+Vente,14800000,honda cr-v5 touring 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v5 touring,2017
+Vente,7900000,hyundai tucson  2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2012
+Vente,12900000,hyundai h1 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,H1,2019
+Vente,6300000,kia morning 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Kia,Morning,2017
+Vente,12800000,mazda cx-5 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2019
+Vente,9700000,volkswagen tiguan 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Tiguan,2017
+Vente,6500000,renault duster 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2015
+Vente,4300000,bmw e46 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw e46,2002
+Vente,15500000,mitsubishi pajero 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero,2018
+Vente,35000000,bmw 730 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,730,2018
+Vente,20000000,jeep wrangler 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jeep,Wrangler,2018
+Vente,12500000,hyundai tucson 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2018
+Vente,16500000,bmw série 4 430i gran coupe 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw,2018
+Vente,5400000,hyundai tucson 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2005
+Vente,3300000,citroen c4 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Citroen,C4,2006
+Vente,35000000,bmw 730 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Bmw,730,2018
+Vente,5500000,hyundai tucson 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2006
+Vente,9000000,hyundai santa fe 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2018
+Vente,1350000,peugeot 406 2000,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2000
+Vente,13900000,mitsubishi eclipse 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Eclipse,2019
+Vente,14700000,toyota land cruiser 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2012
+Vente,16900000,jeep wrangler 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jeep,Wrangler,2019
+Vente,6900000,renault koleos 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Koleos,2014
+Vente,13000000,mitsubishi l200 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,L200,2019
+Vente,16500000,mitsubishi pajero 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero,2019
+Vente,11500000,mercedes-benz c400 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,5800000,ford fusion 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Fusion,2016
+Vente,3800000,mercedes-benz c240 kompressor 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2002
+Vente,12800000,mitsubishi eclipse 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Eclipse,2019
+Vente,1500000,mitsubishi carisma 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Carisma,2001
+Vente,8800000,suzuki vitara 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2019
+Vente,12900000,honda cr-v 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2018
+Vente,3000000,toyota corolla eto'o  2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2001
+Vente,3300000,ford focus,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Ford,inco
+Vente,2000000,peugeot 407 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 407,inco
+Vente,17500000,mitsubishi pajero 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mitsubishi,Pajero,2018
+Vente,35000000,mercedes benz glc 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,10500000,hyundai santa fe 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2017
+Vente,3300000,mercedes-benz c200 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2004
+Vente,11950000,hyundai tucson 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2018
+Vente,6800000,kia rio 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Rio,2016
+Vente,3750000,toyota verso 2002,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Verso,2002
+Vente,12500000,mercedes-benz gla-class 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,13500000,hyundai santa fe 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Santa fe,2018
+Vente,50000000, range rover sport svr 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Range rover,Range rover,2017
+Vente,7800000,hyundai elantra 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Elantra,2018
+Vente,7300000,hyundai sonata 2016,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Sonata,2016
+Vente,8800000,mercedes benz c300 2013,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2013
+Vente,10500000,mazda bt-50 2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mazda,Mazda,2017
+Vente,39500000,range rover velar p380 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Range rover,Rover velar p380,2019
+Vente,7800000,mazda 3 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2018
+Vente,6800000,renault oroch  2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Oroch,2018
+Vente,7900000,hyundai ix35 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Ix35,2013
+Vente,12500000,mercedes-benz ml350  2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2014
+Vente,35000000,mercedes benz gle63s 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2017
+Vente,15500000,ac range rover évoque  2019,"Abidjan, Côte d'Ivoire",,Abidjan,Range rover,Range rover,2019
+Vente,23500000,mercedes-benz glc 300 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2019
+Vente,3800000,toyota avensis 2003,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Avensis,2003
+Vente,6400000,citroen c4 2013 ,"Abidjan, Côte d'Ivoire",,Abidjan,Citroen,C4,2013
+Vente,11800000,hyundai tucson 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Tucson,2018
+Vente,5900000,ford escape 2010,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Ford,Escape,2010
+Vente,2950000,mitsubishi montero 2002,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mitsubishi,Montero,2002
+Vente,20000000,cadillac xts 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Cadillac,Xts,2019
+Vente,3800000,toyota avensis 2004,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Avensis,2004
+Vente,6500000,hyundai accent 2016,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Accent,2016
+Vente,6800000,ford focus 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Focus,2018
+Vente,7900000,toyota rav4 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2010
+Vente,2200000,peugeot 406 2000,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Peugeot,Peugeot 406,2000
+Vente,2200000,mercedes-benz c180 2002 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2002
+Vente,6850000,toyota rav4 2008 ,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Rav4,2008
+Vente,6000000,hyundai tucson 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2008
+Vente,4200000,kia sportage 2007,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Sportage,2007
+Vente,13500000,toyota 4runner 2014,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,4runner,2014
+Vente,10800000,hyundai sonata 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Sonata,2019
+Vente,9500000,mitsubishi outlander 2016 ,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,Outlander,2016
+Vente,24000000,hyundai santa fe 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2005
+Vente,11300000,hyundai tucson 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2018
+Vente,6000000,hyundai tucson 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2008
+Vente,9000000,mitsubishi pajero 2009,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mitsubishi,Pajero,2009
+Vente,5800000,honda accord 2010 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Honda,Accord,2010
+Vente,27500000,nissan patrol 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Nissan,Patrol,2017
+Vente,23500000,land rover range rover velar 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Range rover,Rover range rover velar,2018
+Vente,15500000,mitsubishi pajero 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,Pajero,2018
+Vente,33000000,mercedes-benz gle 450 amg 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2017
+Vente,10800000,renault koleos 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Renault,Koleos,2019
+Vente,2900000,citroen c4 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Citroen,C4,2006
+Vente,12800000,kia sportage 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2019
+Vente,6800000,citroen berlingo 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Citroen,Berlingo,2019
+Vente,15000000,rover range rover 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Range rover,Range rover,2019
+Vente,31000000,nissan patrol 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Patrol,2017
+Vente,9800000,nissan qashqai 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Qashqai,2019
+Vente,11800000,hyundai kona 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Kona,2019
+Vente,3500000,volkswagen golf polo 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Golf polo,2004
+Vente,10000000,volkswagen touareg 2012,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Volkswagen,Touareg,2012
+Vente,8900000,hyundai tucson 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2015
+Vente,19000000,toyota highlander 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Highlander,2019
+Vente,6000000,lincoln mkx 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Lincoln,Mkx,2015
+Vente,29000000,mercedes-benz glc 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,38000000,land rover range rover 2019,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Range rover,Rover range rover,2019
+Vente,9900000,mercedes-benz cla-class 2016,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2016
+Vente,9800000,hyundai sonata 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Sonata,2019
+Vente,13500000,mazda cx-5 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2019
+Vente,10800000,mazda cx-3 2018 a1,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mazda,Mazda,2018
+Vente,8900000,hyundai elantra 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Elantra,2018
+Vente,24800000,mercedes-benz e200 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2019
+Vente,12800000,hyundai santa fe xl limited 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe xl limited,2017
+Vente,4500000,toyota corolla 2006,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Corolla,2006
+Vente,3350000,citroen c4  2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Citroen,C4,2005
+Vente,2000000,bmw x5 2002,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Bmw,Bmw x5,2002
+Vente,32000000,mercedes benz gle 43 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,4250000,kia optima 2013 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2013
+Vente,16500000,toyota  land cruiser prado txl 2013,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Land cruiser,2013
+Vente,5600000,renault duster 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2015
+Vente,9850000,hyundai tucson 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2019
+Vente,5900000,toyota corolla 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2006
+Vente,4950000,toyota previa 2014,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Previa,2014
+Vente,6800000,hyundai accent 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Accent,2017
+Vente,11500000,toyota land cruiser 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2015
+Vente,3850000,mitsubishi outlander boite auto 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander boite auto,2004
+Vente,12500000,kia sportage 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Kia,Sportage,2019
+Vente,5000000,mercedes-benz gla-class 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2015
+Vente,2850000,toyota corolla 2011 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2011
+Vente,2850000,toyota  corolla 2011 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2011
+Vente,25800000,toyota land cruiser 2015 ,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Land cruiser,2015
+Vente,6000000,kia optima 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2014
+Vente,3900000,honda accord 2005,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Honda,Accord,2005
+Vente,14000000,honda cr-v 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2019
+Vente,8800000,mitsubishi outlander sport 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,Outlander sport,2017
+Vente,7800000,hyundai elantra 2018,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Hyundai,Elantra,2018
+Vente,3300000,mercedes benz c280 2004,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2004
+Vente,36000000,maserati levante 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Maserati,Levante,2018
+Vente,38000000,rover range velar p380 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Rover,Range velar p380,2019
+Vente,1900000,peugeot 206 2003,"Abidjan, Côte d'Ivoire",,Abidjan,Peugeot,206,2003
+Vente,25000000,lexus us 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Lexus,Us,2019
+Vente,26000000,audi a5 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Audi,A5,2019
+Vente,10500000,audi q5 2010,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Audi,Q5,2010
+Vente,8950000,hyundai santa fe 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2015
+Vente,23000000,bmw serie 320 2010,"Abidjan, Côte d'Ivoire",,Abidjan,Bmw,Serie 320,2010
+Vente,35000000,mercedes benz glc 43 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,7900000,toyota corolla s 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Corolla,2017
+Vente,13500000,mitsubishi montero 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Montero,2019
+Vente,2700000,toyota avensis 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Avensis,2005
+Vente,16000000,kia stringer 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Stringer,2019
+Vente,4850000,hyundai tucson 2007 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2007
+Vente,11500000,mercedes-benz gl 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,7950000,kia forte 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Forte,2017
+Vente,14700000,toyota land cruiser 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,5950000,bmw x6 m 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X6 m,2008
+Vente,9900000,hyundai santa fe sport 2.0t awd 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Hyundai,2018
+Vente,8950000,chevrolet equinox 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Chevrolet,Equinox,2019
+Vente,18800000,toyota land cruiser 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2015
+Vente,13500000,toyota chr 2019 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Chr,2019
+Vente,1850000,honda civic boîte manuelle 1998,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Honda,1998
+Vente,3950000,peugeot 301 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,301,2017
+Vente,11950000,toyota rav4 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2017
+Vente,15000000,lexus rx 350 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Lexus,Rx 350,2019
+Vente,14500000,mercedes-benz 4matic 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2019
+Vente,9000000,mazda cx-5 2015,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2015
+Vente,6900000,kia forte 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Forte,2016
+Vente,9500000,toyota prado 2010 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Prado,2010
+Vente,11500000,mercedes-benz gla 250 4 matic  2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,3800000,mitsubishi space star 2016,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mitsubishi,Space star,2016
+Vente,17900000,bmw x2 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X2,2019
+Vente,14700000,toyota land cruiser prado 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,6900000,kia picanto 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Picanto,2019
+Vente,24800000,mercedes-benz e 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2019
+Vente,4650000,toyota obama 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,2003
+Vente,4650000,toyota obama 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,2003
+Vente,4650000,toyota obama 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,2003
+Vente,25000000,mercedes benz glc 300 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,11500000,mercedes-benz c400 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,17000000,mercedes benz c300 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2018
+Vente,8500000,jeep cherokee 2014,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Jeep,Cherokee,2014
+Vente,35000000,mercedes-benz gl-class 2018,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2018
+Vente,14700000,toyota land cruiser 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,8800000,kia sportage 2013 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2013
+Vente,16000000,land rover discovery sport  2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Land,Rover discovery sport,2019
+Vente,6900000,honda cr-v 3 2008 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v 3,2008
+Vente,3900000,toyota corolla 2000 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2000
+Vente,12500000,hyundai santa fé xl 7places 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Hyundai,2019
+Vente,8300000,kia sorento 2014,"Abidjan, Côte d'Ivoire",,Abidjan,Kia,Sorento,2014
+Vente,22900000,volkswagen atlas 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Atlas,2019
+Vente,10500000,audi q3 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Audi,Q3,2016
+Vente,5800000,ford ecosport 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Ecosport,2014
+Vente,2400000,peugeot 407,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 407,inco
+Vente,9700000,mazda bt-50 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2017
+Vente,8900000,kia soul 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Soul,2019
+Vente,10900000,hyundai tucson 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2018
+Vente,3300000,toyota corolla obama  2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2003
+Vente,15900000,hyundai santa fe 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2019
+Vente,10800000,toyota rav4 2018 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Rav4,2018
+Vente,13500000,mitsubishi pajero sport  2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero sport,2016
+Vente,7300000,mini countryman 2016,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mini,Countryman,2016
+Vente,10900000,peugeot 3008 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Peugeot,3008,2018
+Vente,29000000,mercedes-benz glc 43 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,18500000,mercedes-benz gle 350 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,6500000,range rover hse 2006 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover hse,2006
+Vente,13800000,mazda cx-5 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2018
+Vente,8800000,suzuki vitara 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2018
+Vente,20000000,mercedes-benz gle 350 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,9900000,hyundai santa fe 2.0t 2013,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Hyundai,2013
+Vente,2650000,mercedes  c200 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,C200,2003
+Vente,31000000,nissan patrol nismo 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Patrol nismo,2018
+Vente,10800000,land rover range rover evoque 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover evoque,2016
+Vente,4900000,renault duster 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2016
+Vente,11500000,mercedes-benz c-class 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,23500000,volkswagen atlas 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Atlas,2019
+Vente,34000000,mercedes-benz gle 450 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,8950000,toyota corolla 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2018
+Vente,26000000,mercedes-benz glc 300 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2019
+Vente,17000000,mercedes-benz gle 350 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,17350000,toyota highlander hybrid 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Highlander hybrid,2019
+Vente,11800000,kia sportage 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2017
+Vente,7800000,nissan qashqai 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Qashqai,2015
+Vente,6500000,honda redgeline 2008 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Redgeline,2008
+Vente,8800000,mercedes benz c300 2013,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2013
+Vente,12500000,mitsubishi pajero gls 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero gls,2015
+Vente,9800000,mitsubishi outlander 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2018
+Vente,10900000,honda cr-v4 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v4,2016
+Vente,9900000,hyundai creta   2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Creta,2016
+Vente,7500000,nissan qashqai 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Qashqai,2016
+Vente,5850000,mazda tribute 2011 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2011
+Vente,6800000,toyota hilux 2015 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Hilux,2015
+Vente,8900000,hyundai ix35 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Ix35,2013
+Vente,35000000,land rover range rover 2019,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Range rover,Rover range rover,2019
+Vente,21000000,mitsubishi pajero 2019,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Mitsubishi,Pajero,2019
+Vente,17500000,mercedes-benz glc  300 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2019
+Vente,4300000,toyota verso 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Verso,2005
+Vente,4900000,toyota corolla obama 2005,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Corolla,2005
+Vente,16000000,hyundai santa fe 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Santa fe,2019
+Vente,13000000,mitsubishi outlander 2019,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Mitsubishi,Outlander,2019
+Vente,11700000,hyundai elantra 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Elantra,2019
+Vente,8800000,suzuki vitara 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2019
+Vente,1900000,peugeot 206 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,206,2003
+Vente,8700000,honda civic 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Civic,2018
+Vente,8800000,mercedes-benz c-class 2014,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2014
+Vente,25800000,toyota land cruiser 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2016
+Vente,14800000,hyundai tucson 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2019
+Vente,19700000,toyota land cruiser prado txl 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2017
+Vente,16900000,mitsubishi pajero 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero,2019
+Vente,15750000,mercedes-benz ml 350 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,8900000,hyundai santa fe 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2015
+Vente,5000000,peugeot 301 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,301,2014
+Vente,5800000,renault duster 2016,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Duster,2016
+Vente,3500000,toyota avensis 2004,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Avensis,2004
+Vente,2800000,toyota corolla 2003,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Corolla,2003
+Vente,10900000,kia sorento 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2016
+Vente,6500000,hyundai elantra 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2015
+Vente,7000000,hyundai accent 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Accent,2017
+Vente,9000000,mercedes-benz c300 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2013
+Vente,4500000,kia optima 2013 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2013
+Vente,7900000,toyota rav4 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2010
+Vente,26500000,maserati merak 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Maserati,Merak,2018
+Vente,11900000,honda cr-v 5 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v 5,2017
+Vente,10800000,kia sportage 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2017
+Vente,7000000,honda crv3 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Crv3,2007
+Vente,8800000,mazda cx-3 2018 a1,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2018
+Vente,7900000,ford fusion 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Ford,Fusion,2017
+Vente,3800000,peugeot 308 2014 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308,2014
+Vente,3800000,peugeot 308 2014 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308,2014
+Vente,19500000,toyota land cruiser prado txl 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2017
+Vente,5850000,mazda tribute 2010 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2010
+Vente,13200000,mitsubishi eclipse 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Eclipse,2019
+Vente,29000000,mercedes benz glc 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2019
+Vente,7900000,mazda 3 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2019
+Vente,5500000,ford fiesta 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Fiesta,2014
+Vente,14800000,toyota 4runner 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,4runner,2018
+Vente,14350000,toyota land cruiser prado 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,15700000,mercedes-benz gl 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,7300000,kia sorento 2016 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Sorento,2016
+Vente,35000000,bmw i7 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,I7,2018
+Vente,49000000,nissan patrol 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Nissan,Patrol,2019
+Vente,11000000,mitsubishi asx 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Asx,2019
+Vente,7950000,hyundai tucson ix35 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson ix35,2013
+Vente,8500000,hyundai elantra 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2018
+Vente,1900000,honda cr-v 1999,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Honda,Cr-v,1999
+Vente,11800000,audi q5 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Audi,Q5,2016
+Vente,14700000,toyota land cruiser 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2013
+Vente,4000000,peugeot 308 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308,2010
+Vente,4200000,honda civic 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Civic,2008
+Vente,11800000,hyundai santa fe xl awd 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Santa fe xl awd,2018
+Vente,12500000,hyundai tucson 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Tucson,2017
+Vente,3300000,mazda 6 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2001
+Vente,13800000,toyota rav4 2018 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Rav4,2018
+Vente,2800000,toyota yaris 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Yaris,2012
+Vente,6850000,mercedes-benz e 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2010
+Vente,37000000,bmw x5 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw x5,2019
+Vente,9500000, bmw x3 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw,2013
+Vente,15700000,mercedes-benz glc 250 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,10800000,mazda cx-3 2018 ,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2018
+Vente,4700000,kia picanto 2013,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Picanto,2013
+Vente,5850000,hyundai elantra 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2016
+Vente,5850000,hyundai elantra 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2016
+Vente,10800000,suzuki vitara 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2019
+Vente,4000000,renault logan 2010,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Logan,2010
+Vente,34000000,mercedes benz gle 450 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2017
+Vente,9800000,mazda cx-5 2016 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mazda,Mazda,2016
+Vente,6500000,volkswagen touareg 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,10800000,hyundai tucson 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2018
+Vente,6200000,honda cr-v3 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v3,2008
+Vente,3500000,toyota highlander boite auto 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Highlander boite auto,2003
+Vente,3850000,mercedes c 280  4 matic 2009,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,C 280  4 matic,2009
+Vente,6900000,hyundai santa fe 2011,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2011
+Vente,5950000,hyundai elantra 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2016
+Vente,2850000,toyota obama 3 portières boite manuelle,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,inco
+Vente,1950000,peugeot 406 phase 2 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,inco
+Vente,2200000,peugeot 406 phase 2 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2002
+Vente,13800000,gmc terrain 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Gmc,Terrain,2019
+Vente,3500000,jeep patriot 2012,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Jeep,Patriot,2012
+Vente,11800000,hyundai tucson 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Tucson,2018
+Vente,16500000,toyota hiace 15 places 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Hiace 15 places,2019
+Vente,3500000,mazda 3,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,inco
+Vente,13250000,mercedes benz glc  300 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2019
+Vente,4750000,toyota land cruiser 7places 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2003
+Vente,18500000,mazda cx-09 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mazda,Mazda,2019
+Vente,7800000,nissan rogue 2016 full options,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Rogue,2016
+Vente,2850000,toyota rav4 3 portières  2000,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2000
+Vente,9800000,mercedes-benz gla-class 2012,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2012
+Vente,6350000,hyundai accent gt-line 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Accent gt-line,2017
+Vente,4500000,kia optima 2013 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2013
+Vente,3300000,bmw e-90 boite auto 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,E-90 boite auto,2006
+Vente,5500000,toyota prado 7 places 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Prado 7 places,2004
+Vente,9800000,hyundai creta 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Creta,2017
+Vente,5500000,ford escape 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2015
+Vente,7900000,mazda 3 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2019
+Vente,1850000,peugeot 406 phase 2 boite manuelle 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2002
+Vente,6850000,jac frissons 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jac,Frissons,2018
+Vente,5850000,volkswagen touareg  2006 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,7850000,renault duster 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2019
+Vente,7850000,renault duster 2019  ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2019
+Vente,7850000,renault duster 2019  ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2019
+Vente,7850000,renault duster 2019  ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2019
+Vente,5250000,toyota rav4 phase 3   2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2007
+Vente,5950000,suzuki baleno 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Baleno,2018
+Vente,6500000,mercedes e-350 - 4 matic 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,E-350 - 4 matic,2010
+Vente,7300000,hyundai accent 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Accent,2017
+Vente,8300000,nissan altima 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Nissan,Altima,2018
+Vente,1950000,peugeot 406 phase 2 boite manuelle 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2002
+Vente,8850000,hyundai elantra 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2019
+Vente,3850000,mitsubishi outlander boite auto 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander boite auto,2004
+Vente,5950000,suzuki baleno 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Baleno,2018
+Vente,4350000,bmw e-46 phase 2 boite auto gros écran 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw,2002
+Vente,10500000,mazda cx-5 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2017
+Vente,3000000,chevrolet cruze 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Chevrolet,Cruze,2012
+Vente,5950000,suzuki baleno 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Baleno,2018
+Vente,3850000,mercedes c280 - 4 matic boite auto 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,C280 - 4 matic boite auto,2008
+Vente,4850000,volkswagen passat 2011  ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Passat,2011
+Vente,9800000,suzuki vitara 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2018
+Vente,3300000,bmw e-90  2006 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,E-90,2006
+Vente,9800000,suzuki vitara 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2018
+Vente,11900000,mitsubishi outlander 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2018
+Vente,11850000,hyundai santa fé 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Hyundai,2019
+Vente,3750000,ford focus  2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Focus,2003
+Vente,1950000,peugeot 406 phase 2 boite 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2002
+Vente,5850000,hyundai elantra 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2016
+Vente,25500000,nissan patrol 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Nissan,Patrol,2018
+Vente,4800000,2 toyota corolla 2011 et 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2011
+Vente,4800000,2 toyota corolla 2011 et 2008 boite manuelle,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2011
+Vente,11500000,renault koleos 2019,"Marcory, Abidjan, Côte d'Ivoire",Marcory,Abidjan,Renault,Koleos,2019
+Vente,10400000,kia sorento 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2016
+Vente,15800000,kia sorento 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2019
+Vente,25000000,bmw série 7 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw,2019
+Vente,17900000,toyota fortuner 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Fortuner,2017
+Vente,5800000,suzuki baleno 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Baleno,2019
+Vente,4350000,kia optima 2013 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2013
+Vente,7800000,kia optima 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2016
+Vente,14300000,hyundai tucson 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Tucson,2019
+Vente,45000000,mercedes benz brabus  2016,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2016
+Vente,17500000,bmw x3 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X3,2019
+Vente,15300000,mazda cx-9 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2017
+Vente,8500000,hyundai sonata sport full options  2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Sonata sport full options,2017
+Vente,24900000,land rover range rover 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover,2018
+Vente,6850000,toyota rav4 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2007
+Vente,5950000,hyundai elantra 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2012
+Vente,25000000,toyota land cruiser 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Land cruiser,2017
+Vente,8900000,hyundai elantra 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2018
+Vente,2500000,renault sandero 2015,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Sandero,2015
+Vente,4850000,volkswagen passat 2011  ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Passat,2011
+Vente,2950000,toyota obama 3 portières 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,2003
+Vente,3850000,peugeot 308 full options 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308 full options,2014
+Vente,3850000,peugeot 308 full options 2014 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308 full options,2014
+Vente,2300000,mazda 323 2001,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mazda,Mazda,2001
+Vente,5900000,ford focus 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Focus,2016
+Vente,8900000,hyundai tucson 2015 ,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Tucson,2015
+Vente,7900000,toyota land cruiser prado txl 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2016
+Vente,29000000,mercedes-benz gl-class 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,10500000,renault kadjar 2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Kadjar,2017
+Vente,12300000,hyundai santa fe 2018,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Hyundai,Santa fe,2018
+Vente,6800000,mercedes benz 2010,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Mercedes,Benz,2010
+Vente,1850000,peugeot 406 phase 2 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2002
+Vente,20500000,jaguar f-type 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Jaguar,F-type,2018
+Vente,13000000,toyota chaser 2018,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Toyota,Chaser,2018
+Vente,15000000,land rover range rover sport 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover sport,2018
+Vente,3300000,suzuki grand vitara 2002,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Suzuki,Vitara,2002
+Vente,2200000,peugeot 406 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2002
+Vente,21000000,land rover range rover sport 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover sport,2017
+Vente,6500000,hyundai elantra gt 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra gt,2016
+Vente,4500000,hyundai elantra 2012,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Elantra,2012
+Vente,8900000,ford escape 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2019
+Vente,6900000,hyundai grandeur 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Grandeur,2017
+Vente,5950000,hyundai elantra 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2016
+Vente,4650000,kia optima 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2013
+Vente,31000000,hyundai genesis eq900 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Genesis eq900,2019
+Vente,4850000,volkswagen passat 2012 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Passat,2012
+Vente,8500000,ford ecosport 2019,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Ford,Ecosport,2019
+Vente,7900000,kia sportage 2016 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Sportage,2016
+Vente,9900000,toyota hilux 2010,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Hilux,2010
+Vente,12500000,hyundai tucson 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2019
+Vente,13200000,mitsubishi eclipse 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,Eclipse,2019
+Vente,9500000,hyundai tucson 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2018
+Vente,7800000,ford escape 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2016
+Vente,5850000,volkswagen touareg  2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,5850000,volkswagen touareg 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Touareg,2006
+Vente,2000000,ford fusion 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Fusion,2005
+Vente,30000000,mercedes-benz gls 550 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2018
+Vente,4500000,toyota rav4 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2001
+Vente,7000000,mercedes-benz c300 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2017
+Vente,16500000,toyota lite ace 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Lite ace,2019
+Vente,7000000,renault oroch 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Oroch,2018
+Vente,8800000,ford ecosport 2019,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Ford,Ecosport,2019
+Vente,6500000,hyundai tucson 2012 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Tucson,2012
+Vente,13800000,peugeot 3008 gt-line  2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,3008 gt-line,2019
+Vente,8000000,kia optima 2014 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2014
+Vente,3630000,mercedes-benz c200  2002,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2002
+Vente,13500000,kia sportage 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2019
+Vente,4500000,hyundai i20 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,I20,2017
+Vente,2800000,honda civic 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Civic,2005
+Vente,6500000,renault duster 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2018
+Vente,11000000,hyundai santa fe 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Santa fe,2018
+Vente,14700000,toyota land cruiser 2012,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Toyota,Land cruiser,2012
+Vente,8900000,honda crv 4 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Crv 4,2016
+Vente,5500000,mazda cx-7 2010,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2010
+Vente,5700000,ford focus 2015,"Marcory, Abidjan, Côte d'Ivoire",Marcory,Abidjan,Ford,Focus,2015
+Vente,4800000,honda crv2 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Crv2,2002
+Vente,10800000,suzuki vitara 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2019
+Vente,4600000,hyundai tucson 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2006
+Vente,10000000,nissan qashqai 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Qashqai,2017
+Vente,5900000,ford fusion 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Fusion,2016
+Vente,4500000,toyota obama  2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,2003
+Vente,6900000,mazda 3 2019 concessionnaire ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2019
+Vente,7900000,mazda bt-50 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2017
+Vente,3000000,citroen c4 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Citroen,C4,2005
+Vente,1700000,honda civic 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Civic,2003
+Vente,8900000,toyota hiace 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Hiace,2019
+Vente,4900000,hyundai tucson 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2007
+Vente,4500000,infiniti fx 2007,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Infiniti,Fx,2007
+Vente,4500000,infiniti fx 2007,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Infiniti,Fx,2007
+Vente,9900000,ford explorer 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Explorer,2016
+Vente,5500000,nissan versa 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Versa,2018
+Vente,8300000,ford escape 2018,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Ford,Escape,2018
+Vente,4850000,hyundai tucson 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2010
+Vente,4500000,kia optima 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2013
+Vente,4300000,hyundai tucson 2006,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Tucson,2006
+Vente,7900000,kia sportage 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2019
+Vente,16500000,toyota hi-ace 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Hi-ace,2019
+Vente,4500000,mercedes-benz e350 cambriolet,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,inco
+Vente,13800000,honda cr-v 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2019
+Vente,32000000,mercedes-benz gl-class 2018,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2018
+Vente,4800000,peugeot 2008 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,2008,2015
+Vente,19500000,toyota land cruiser 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2017
+Vente,13000000,mitsubishi eclipse 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Eclipse,2019
+Vente,2000000,peugeot 406 2008,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Peugeot,Peugeot 406,2008
+Vente,10900000,hyundai elantra 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Elantra,2019
+Vente,36000000,mazerati levante q4,"Abidjan, Côte d'Ivoire",,Abidjan,Mazerati,Mazerati,inco
+Vente,17800000,bmw x3 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X3,2018
+Vente,3900000,bmw e46,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Bmw,Bmw e46,inco
+Vente,3900000,mercedes-benz c200 2002 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2002
+Vente,3200000,mercedes-benz c180 2002 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2002
+Vente,3200000,bmw e46 2000,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Bmw,Bmw e46,2000
+Vente,4350000,toyota corolla 2008,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Corolla,2008
+Vente,16250000,mercedes-benz gle 350 4 matic 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mercedes,Benz,2018
+Vente,3500000,honda crv1 2000,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Crv1,2000
+Vente,10000000,hyundai santa fe 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2018
+Vente,4800000,renault koleos 2011,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Koleos,2011
+Vente,9800000,hyundai santa fe 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2016
+Vente,3000000,toyota yaris 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Yaris,2003
+Vente,8500000,toyota rav4 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2014
+Vente,7900000,hyundai tucson 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2015
+Vente,8000000,kia sportage 2011,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2011
+Vente,10000000,jeep grand cherokee 2012,"Marcory, Abidjan, Côte d'Ivoire",Marcory,Abidjan,Jeep,Grand cherokee,2012
+Vente,12500000,mercedes-benz gl-class 2016,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mercedes,Benz,2016
+Vente,16000000,bmw x5 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw x5,2015
+Vente,4800000,mitsubishi pajero 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero,2002
+Vente,2200000,peugeot 406 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2001
+Vente,8850000,hyundai elantra 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2019
+Vente,8850000,hyundai elantra 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2019
+Vente,9500000,honda hr-v 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Hr-v,2017
+Vente,4750000,renault duster 2015,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Duster,2015
+Vente,10500000,hyundai santa fe  2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2017
+Vente,4700000,peugeot 2008 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,2008,2015
+Vente,2800000,toyota rav4 2000,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2000
+Vente,3650000,hyundai tucson 2008,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Hyundai,Tucson,2008
+Vente,1850000,peugeot 206  2003,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Peugeot,206,2003
+Vente,14900000,mazda cx-9 2019,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mazda,Mazda,2019
+Vente,7650000,peugeot 5008 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,5008,2019
+Vente,3800000,toyota auris 2008,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Auris,2008
+Vente,5500000,mitsubishi pajero 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero,2006
+Vente,15900000,mitsubishi montero 2018,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Mitsubishi,Montero,2018
+Vente,17800000,bmw x3 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Bmw,X3,2018
+Vente,4000000,volkswagen passat 2014,"Abidjan, Côte d'Ivoire",,Abidjan,Volkswagen,Passat,2014
+Vente,5500000,toyota corolla 2011,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2011
+Vente,18000000,jeep wrangler 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jeep,Wrangler,2019
+Vente,5500000,hyundai santa fe 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2014
+Vente,6700000,toyota corolla 2015,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Corolla,2015
+Vente,8600000,mitsubishi pajero 2007,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,Pajero,2007
+Vente,2850000,nissan juke 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Juke,2010
+Vente,1750000,ford focus 2002 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Ford,Focus,2002
+Vente,4700000,peugeot 2008 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,2008,2015
+Vente,2200000,toyota corolla 1997,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Corolla,1997
+Vente,6600000,land rover range rover 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover,2006
+Vente,2700000,mercedes benz c200 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2002
+Vente,2700000,mercedes benz c200 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2002
+Vente,7500000,mini cooper 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mini,Cooper,2016
+Vente,3200000,peugeot 308 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308,2014
+Vente,4500000,honda crv2 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Crv2,2002
+Vente,4000000,kia rio 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Rio,2014
+Vente,7300000,suzuki vitara 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Suzuki,Vitara,2019
+Vente,7500000,kia optima 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2016
+Vente,5850000,ford escape 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Escape,2016
+Vente,10000000,hyundai santa fe sport 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe sport,2017
+Vente,3400000,nissan hardbody 2007,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Nissan,Hardbody,2007
+Vente,10500000,kia sportage 2018 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Sportage,2018
+Vente,17900000,toyota land cruiser prado 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2015
+Vente,7900000,kia sorento 2014 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2014
+Vente,14900000,gmc terrain 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Gmc,Terrain,2019
+Vente,8950000,kia sportage 2016 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2016
+Vente,13900000,ford ranger tunee raptor 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Ranger tunee raptor,2019
+Vente,8950000,mercedes-benz ml350 2012 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2012
+Vente,14900000,lexus rx 350 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Lexus,Rx 350,2019
+Vente,15900000,kia -stringer sport 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,-stringer sport,2019
+Vente,13900000,mitsubishi pajero 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero,2019
+Vente,18900000,toyota 4runner 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,4runner,2019
+Vente,15900000,mercedes-benz gle 350 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,6800000,kia soul 2018,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Soul,2018
+Vente,3700000,mercedes-benz c200 kompressor 2002,"Marcory, Abidjan, Côte d'Ivoire",Marcory,Abidjan,Mercedes,Benz,2002
+Vente,12900000,jeep grand cherokee srt2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jeep,Grand cherokee srt,2017
+Vente,10500000,kia sportage 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2018
+Vente,2700000,peugeot 307 2007,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Peugeot,307,2007
+Vente,14250000,mercedes-benz glc 300 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,4500000,mitsubishi l 200 2000,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mitsubishi,L 200,2000
+Vente,2700000,peugeot 207 2008,"Marcory, Abidjan, Côte d'Ivoire",Marcory,Abidjan,Peugeot,207,2008
+Vente,7000000,hyundai tucson 2006,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Tucson,2006
+Vente,9000000,toyota rav4 2008 ,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Toyota,Rav4,2008
+Vente,11000000,toyota prado 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Prado,2013
+Vente,5700000,toyota auris hybride 2011,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Auris hybride,2011
+Vente,5000000,kia optima 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Optima,2015
+Vente,6000000,toyota rav4 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2007
+Vente,7850000,renault duster 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2019
+Vente,7500000,suzuki grand vitara 2015 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Suzuki,Vitara,2015
+Vente,9000000,toyota jj cruiser 2012 ,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Jj cruiser,2012
+Vente,4900000,toyota camry 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Camry,2010
+Vente,34900000,nissan armada 2018,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Nissan,Armada,2018
+Vente,7500000,hyundai elantra 2017 ,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Hyundai,Elantra,2017
+Vente,5250000,mitsubishi pajero 7 places 2009,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero 7 places,2009
+Vente,5250000,mitsubishi pajero 7 places 2009,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero 7 places,2009
+Vente,9750000,toyota fortuner 7 places 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Fortuner 7 places,2015
+Vente,4850000,volkswagen passat 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Volkswagen,Passat,2012
+Vente,6500000,hyundai accent gt-line 2016 boite auto,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Accent gt-line,2016
+Vente,2850000,toyota rav4 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2003
+Vente,2500000,jaguar type 2000 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jaguar,Type,2001
+Vente,15850000,hyundai tucson 2019 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2019
+Vente,22800000,hyundai tucson 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Tucson,2019
+Vente,6350000,kia sorento 7 places 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento 7 places,2013
+Vente,12500000,toyota land cruiser txl 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Land cruiser,2015
+Vente,5200000,mercedes-benz c230 4 matic 2008 v6,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2008
+Vente,4999999,hyundai tucson 2017,"Le plateau, Abidjan, Côte d'Ivoire",Le plateau,Abidjan,Hyundai,Tucson,2017
+Vente,6300000,hyundai accent 2017,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Hyundai,Accent,2017
+Vente,9500000,honda cr-v 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2015
+Vente,9500000,honda cr-v 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Cr-v,2015
+Vente,1850000,peugeot 206 2003,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Peugeot,206,2003
+Vente,3700000,nissan hardbody 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Hardbody,2010
+Vente,7800000,hyundai tucson 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2015
+Vente,10900000,hyundai santa fe 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2017
+Vente,7500000,hyundai tucson 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2013
+Vente,8800000,mitsubishi l200 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,L200,2017
+Vente,8700000,nissan rogue 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Nissan,Rogue,2016
+Vente,13700000,mazda cx-5 2018 maison mère,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2018
+Vente,5500000,hyundai accent 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Accent,2018
+Vente,2350000,bmw x5 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,Bmw x5,inco
+Vente,1750000,mitsubishi lancer 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Lancer,2005
+Vente,11500000,toyota chr 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Chr,2019
+Vente,3000000,kia sorento 2003,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Kia,Sorento,2003
+Vente,24000000,land rover range rover sport 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover range rover sport,2018
+Vente,6800000,hyundai avante  2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Avante,2017
+Vente,10800000,kia sportage 2018 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2018
+Vente,9500000,toyota fortuner 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Fortuner,2015
+Vente,11500000,range rover 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Range rover,Rover,2017
+Vente,2600000,ford focus 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Focus,2004
+Vente,7800000,mercedes-benz ml350 4matic 2010,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2010
+Vente,10500000,mitsubishi outlander 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2017
+Vente,1200000,peugeot 407 automatique,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 407,inco
+Vente,7200000,renault duster 2016,"Marcory, Abidjan, Côte d'Ivoire",Marcory,Abidjan,Renault,Duster,2016
+Vente,8300000,hyundai elantra 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2018
+Vente,5800000,ford focus 2014,"Marcory, Abidjan, Côte d'Ivoire",Marcory,Abidjan,Ford,Focus,2014
+Vente,22000000,toyota fortuner 2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Fortuner,2017
+Vente,12800000,kia sportage 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2019
+Vente,13500000,hyundai tucson 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2019
+Vente,13800000,kia sportage 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sportage,2017
+Vente,3800000,toyota corolla 2004 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Corolla,2004
+Vente,8800000,mitsubishi outlander 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2018
+Vente,21800000,toyota rav4 2019,"Abidjan, Côte d'Ivoire",,Abidjan,Toyota,Rav4,2019
+Vente,5800000,hyundai tucson 2008,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Tucson,2008
+Vente,13900000,mitsubishi pajero 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Pajero,2019
+Vente,3900000,mercedes-benz sprinter 208 1997,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,inco
+Vente,6800000,kia cerato 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Cerato,2018
+Vente,15000000,mercedes-benz c300 cabriolet  2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,16500000,mercedes-benz gl 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,11500000,ford explorer 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Ford,Explorer,2018
+Vente,18800000,mercedes-benz c450 2017,"Abidjan, Côte d'Ivoire",,Abidjan,Mercedes,Benz,2017
+Vente,6500000,renault duster 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Duster,2016
+Vente,20500000,jaguar pace s 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Jaguar,Pace s,2018
+Vente,13000000,ford ranger 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Ranger,2018
+Vente,6000000,kia optima 2014 ,"Abidjan, Côte d'Ivoire",,Abidjan,Kia,Optima,2014
+Vente,1850000,toyota yaris 1999,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Toyota,Yaris,1999
+Vente,5500000,hyundai elantra 2014,"Abidjan, Côte d'Ivoire",,Abidjan,Hyundai,Elantra,2014
+Vente,2500000,citroën c3 2011 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Citroën,Citroën,2011
+Vente,1250000,peugeot 406 2001,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Peugeot,Peugeot 406,2001
+Vente,4500000,bmw m 2007,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Bmw,M,2007
+Vente,12000000,honda cr-v 2019,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Honda,Cr-v,2019
+Vente,2800000,bmw 525 2003,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,525,2003
+Vente,4500000,volkswagen golf 2012,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Volkswagen,Golf,2012
+Vente,27000000,mercedes benz 63s amg 2018,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Mercedes,Benz,2018
+Vente,12000000,hyundai tucson 2017,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Hyundai,Tucson,2017
+Vente,11000000,toyota hilux 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Hilux,2018
+Vente,4000000,hyundai elantra 2014,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Hyundai,Elantra,2014
+Vente,15500000,mercedes-benz glc 2016,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2016
+Vente,11500000,mercedes-benz gla -class 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,13900000,mitsubishi pajero 2019,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Mitsubishi,Pajero,2019
+Vente,8800000,renault kangoo 2017,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Renault,Kangoo,2017
+Vente,3500000,mazda 6 boite auto grand écran 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,2007
+Vente,4250000,toyota obama boite manuelle,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Obama,inco
+Vente,3400000,toyota rav4 2010,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Toyota,Rav4,2010
+Vente,4300000,bmw 318 2002,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Bmw,318,2002
+Vente,4750000,ford ecosport 2015 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Ecosport,2015
+Vente,5800000,mazda,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Mazda,Mazda,inco
+Vente,1000000,peugeot 406 2005,"Angré, Abidjan, Côte d'Ivoire",Angré,Abidjan,Peugeot,Peugeot 406,2005
+Vente,5000000,hyundai santa fe 2011,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Hyundai,Santa fe,2011
+Vente,13000000,hyundai santa fe 2018,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Hyundai,Santa fe,2018
+Vente,11000000,volkswagen touareg 2012,"Vridi, Abidjan, Côte d'Ivoire",Vridi,Abidjan,Volkswagen,Touareg,2012
+Vente,16500000,honda cr-v 2019,"Vridi, Abidjan, Côte d'Ivoire",Vridi,Abidjan,Honda,Cr-v,2019
+Vente,8500000,honda civic 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Honda,Civic,2017
+Vente,13500000,hyundai santa fe 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2018
+Vente,7500000,hyundai elantra 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2017
+Vente,7000000,bmw x3 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X3,2012
+Vente,4500000,mitsubishi galant 2006,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Galant,2006
+Vente,3500000,mercedes-benz c 200 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2007
+Vente,7200000,toyota rav4 2007,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Toyota,Rav4,2007
+Vente,2500000,peugeot 307 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,307,2001
+Vente,43000000,hyundai elantra 2007,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Hyundai,Elantra,2007
+Vente,2700000,hyundai santa fe 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2008
+Vente,7500000,bmw  3 series 2012,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,3 series,2012
+Vente,2300000,peugeot 406 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,Peugeot 406,2002
+Vente,3900000,mitsubishi outlander 2005,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Outlander,2005
+Vente,2800000,peugeot 307 2004,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,307,2004
+Vente,8650000,hyundai elantra 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2019
+Vente,1800000,mazda 323 1999,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mazda,Mazda,1999
+Vente,5800000,hyundai tucson 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2008
+Vente,8000000,hyundai avante 2018,"Koumassi, Abidjan, Côte d'Ivoire",Koumassi,Abidjan,Hyundai,Avante,2018
+Vente,3500000,suzuki jimny 2013,"Abobo, Abidjan, Côte d'Ivoire",Abobo,Abidjan,Suzuki,Jimny,2013
+Vente,7000000,mitsubishi l 200 2009,"Abidjan, Côte d'Ivoire",,Abidjan,Mitsubishi,L 200,2009
+Vente,4500000,mazda 6 2006,"Abidjan, Côte d'Ivoire",,Abidjan,Mazda,Mazda,2006
+Vente,1450000,ford focus 2000,"Yopougon, Abidjan, Côte d'Ivoire",Yopougon,Abidjan,Ford,Focus,2000
+Vente,28000000,bmw m550i 2018,"Abidjan, Côte d'Ivoire",,Abidjan,Bmw,M550i,2018
+Vente,10000000,hyundai santa fe 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2015
+Vente,8900000,hyundai ix 35 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Ix 35,2015
+Vente,5250000,hyundai tucson 2006 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Tucson,2006
+Vente,2850000,hyundai elantra 2010 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2010
+Vente,2800000,citroen c3 2002,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Citroen,C3,2002
+Vente,2200000,mitsubishi space star 2001,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mitsubishi,Space star,2001
+Vente,8900000,hyundai elantra 2018,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Elantra,2018
+Vente,18800000,mercedes-benz gle 350 4matic  2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2017
+Vente,5800000,hyundai santa fe 2008,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Santa fe,2008
+Vente,10500000,kia sorento 2017,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Kia,Sorento,2017
+Vente,13900000,ford ranger 2019,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Ford,Ranger,2019
+Vente,7900000,hyundai sonata 2017 ,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Hyundai,Sonata,2017
+Vente,2200000,renault scenic 2009,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Renault,Scenic,2009
+Vente,4000000,peugeot 306 2014,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,306,2014
+Vente,5800000,mercedes-benz e350 2015,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Mercedes,Benz,2015
+Vente,7800000,bmw x3 2013,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Bmw,X3,2013
+Vente,2000000,peugeot 308 2009,"Cocody, Abidjan, Côte d'Ivoire",Cocody,Abidjan,Peugeot,308,2009
+Vente,6300000,hyundai tucson 2009,"Bingerville, Côte d'Ivoire",Bingerville,Bingerville,Hyundai,Tucson,2009
